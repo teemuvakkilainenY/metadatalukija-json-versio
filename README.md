@@ -18,4 +18,4 @@ npm install
 npm start
 ```
 
-Avaa selaimessa `http://localhost:3000`.
+Avaa selaimessa `http://localhost:3000`
